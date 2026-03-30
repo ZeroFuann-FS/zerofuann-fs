@@ -1,4 +1,4 @@
-# Hola, soy José Juan 👋 (zerofuann)
+# Hola, soy José Juan ✌︎ (zerofuann)
 
 <small>**Ingeniería en TICs | Full Stack Developer en formación**</small>
 
