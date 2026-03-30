@@ -1,17 +1,4 @@
-<!-- Header Banner with Capsule Render -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea:764ba2&height=300&section=header&text=Full%20Stack%20Developer&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=ICT%20Engineer%20|%20Building%20the%20Future&descAlignY=55&descAlign=50" alt="header"/>
-</div>
-
-<!-- Profile Picture Section -->
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/[TU_ID_NUMERICO]?v=4" alt="José Juan - ZeroFuann" width="180" style="border-radius: 50%; border: 4px solid #667eea; margin: 20px 0;"/>
-  
-  ### ¡Hola! Soy **José Juan** 👨‍💻
-  ### *alias* **ZeroFuann**
-  
-  **Estudiante de Ingeniería en TICs | Full Stack Developer en Formación**
-</div>
+>
 
 ## 🌐 **Conecta Conmigo**
 
