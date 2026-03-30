@@ -38,62 +38,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm&theme=dark" alt="Tools" height="60"/>
 </div>
 
----
 
-## 📊 **Proyectos Destacados**
-
-<table align="center">
-  <tr>
-    <td width="50%" align="center">
-      <h3>🚀 Nombre Proyecto 1</h3>
-      <img src="https://via.placeholder.com/400x250/667eea/ffffff?text=Project+1+GIF" alt="Project 1" width="100%"/>
-      <p><strong>Descripción:</strong> Brief description of your first project</p>
-      <div>
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue"/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-      </div>
-      <p><a href="https://github.com/ZeroFuann/[PROYECTO_1]">Ver Repositorio →</a></p>
-    </td>
-    <td width="50%" align="center">
-      <h3>💼 Nombre Proyecto 2</h3>
-      <img src="https://via.placeholder.com/400x250/764ba2/ffffff?text=Project+2+GIF" alt="Project 2" width="100%"/>
-      <p><strong>Descripción:</strong> Brief description of your second project</p>
-      <div>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-      </div>
-      <p><a href="https://github.com/ZeroFuann/[PROYECTO_2]">Ver Repositorio →</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <h3>🎨 Nombre Proyecto 3</h3>
-      <img src="https://via.placeholder.com/400x250/667eea/ffffff?text=Project+3+GIF" alt="Project 3" width="100%"/>
-      <p><strong>Descripción:</strong> Brief description of your third project</p>
-      <div>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
-      </div>
-      <p><a href="https://github.com/ZeroFuann/[PROYECTO_3]">Ver Repositorio →</a></p>
-    </td>
-    <td width="50%" align="center">
-      <h3>🌐 Nombre Proyecto 4</h3>
-      <img src="https://via.placeholder.com/400x250/764ba2/ffffff?text=Project+4+GIF" alt="Project 4" width="100%"/>
-      <p><strong>Descripción:</strong> Brief description of your fourth project</p>
-      <div>
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-        <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-      </div>
-      <p><a href="https://github.com/ZeroFuann/[PROYECTO_4]">Ver Repositorio →</a></p>
-    </td>
-  </tr>
-</table>
-
----
 
 ## 📈 **Estadísticas & Contribuciones**
 
