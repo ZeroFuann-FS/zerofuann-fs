@@ -19,24 +19,3 @@ Soy estudiante apasionado de **Ingeniería en Tecnologías de la Información y 
 ---
 
 >
-
-## 🌐 **Conecta Conmigo**
-
-<div align="center">
-  <p>
-    <a href="https://linkedin.com/in/zerofuann" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://zerofuann.com" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio"/>
-    </a>
-    <a href="https://twitter.com/zerofuann" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-    </a>
-    <a href="mailto:zerofuann@email.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-  </p>
-</div>
-
----
