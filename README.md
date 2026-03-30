@@ -40,25 +40,6 @@
 
 
 
-## 📈 **Estadísticas & Contribuciones**
-
-<div align="center">
-  <h3>💻 Estadísticas Generales</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=ZeroFuann&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="100%" max-width="500px"/>
-</div>
-
-<div align="center">
-  <h3>📚 Lenguajes Más Utilizados</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroFuann&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%" max-width="500px"/>
-</div>
-
-<div align="center">
-  <h3>🔥 Racha de Contribuciones</h3>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ZeroFuann&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" max-width="500px"/>
-</div>
-
----
-
 ## 🌐 **Conecta Conmigo**
 
 <div align="center">
