@@ -2,7 +2,7 @@
 
 **Ingeniería en TICs | Full Stack Developer en formación**
 
-No solo escribo código; diseño flujos que funcionan. Mi enfoque está en cerrar la brecha entre una lógica robusta y una interfaz que la gente realmente quiera usar. Actualmente, paso mis días optimizando procesos con IA y explorando cómo construir software que sea tan escalable como fácil de mantener.
+No solo escribo código, tambien diseño flujos que funcionan. Mi enfoque está en cerrar la brecha entre una lógica robusta y una interfaz que la gente realmente quiera usar. Actualmente, paso mis días optimizando procesos con IA y explorando cómo construir software que sea tan escalable como fácil de mantener.
 
 ---
 
