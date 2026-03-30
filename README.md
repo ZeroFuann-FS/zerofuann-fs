@@ -13,33 +13,6 @@
   **Estudiante de Ingeniería en TICs | Full Stack Developer en Formación**
 </div>
 
----
-
-<!-- Typing Effect -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=667eea&center=true&vCenter=true&lines=Building%20with%20Laravel%20%26%20Vue;React%20Enthusiast%20🚀;Always%20Learning%20📚;Full%20Stack%20Passion%20💻" alt="Typing SVG"/>
-</div>
-
----
-
-## 🛠️ **Habilidades & Tecnologías**
-
-<div align="center">
-  <h3>Frontend Development</h3>
-  <img src="https://skillicons.dev/icons?i=react,vue,js,html,css,tailwind&theme=dark" alt="Frontend Skills" height="60"/>
-  
-  <h3>Backend Development</h3>
-  <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,express&theme=dark" alt="Backend Skills" height="60"/>
-  
-  <h3>Bases de Datos & DevOps</h3>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,aws,docker,vercel&theme=dark" alt="Database & DevOps Skills" height="60"/>
-  
-  <h3>Herramientas & Otros</h3>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm&theme=dark" alt="Tools" height="60"/>
-</div>
-
-
-
 ## 🌐 **Conecta Conmigo**
 
 <div align="center">
