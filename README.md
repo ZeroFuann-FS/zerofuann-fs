@@ -79,20 +79,3 @@ Soy estudiante apasionado de **Ingeniería en Tecnologías de la Información y 
 
 ---
 
-## 📞 **Disponibilidad**
-
-Siempre estoy abierto a nuevas oportunidades, colaboraciones y conversaciones sobre desarrollo web.
-¡No dudes en contactarme! 🚀
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea:764ba2&height=100&section=footer" alt="footer"/>
-</div>
-
----
-
-<div align="center">
-  <p>
-    <b>Hecho con ❤️ por José Juan | ZeroFuann</b><br>
-    <b>© 2026</b>
-  </p>
-</div>
