@@ -1,27 +1,58 @@
-# Hola, soy Jose Juan ✌︎ (zerofuann)
+## Hola, soy José Juan · ZeroFuann 👋
 
-<small>**Ingeniería en TICs | Full Stack Developer en formación**</small>
+**Desarrollador de software enfocado en productos con IA** · Ingeniería en TICs · Camino a **Forward Deployed Engineer**
 
-<small>No solo escribo código, también diseño flujos que funcionan. Mi enfoque está en cerrar la brecha entre una lógica robusta y una interfaz que la gente realmente quiera usar. Actualmente, paso mis días optimizando procesos con IA y explorando cómo construir software que sea tan escalable como fácil de mantener.</small>
+Me gusta tomar un problema real, entenderlo con quien lo vive y convertirlo en software que se usa todos los días: desde la idea y el diseño hasta la base de datos, el despliegue y los usuarios.
 
----
+### Sobre mí
 
-### 🛠️ Tech Stack
-![Laravel](https://img.shields.io/badge/-Laravel-F12E24?style=flat-square&logo=laravel&logoColor=white) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+- 🎓 Estudiante de **Ingeniería en Tecnologías de la Información y Comunicaciones** (2022 a la fecha).
+- 💼 **Software Engineering Resident en Synesia Labs**, haciendo mi residencia profesional.
+- 🚀 Construyo productos **de punta a punta**: frontend, backend, base de datos, despliegue y mantenimiento. Ejemplo: [Brío](https://github.com/ZeroFuann-FS/brio).
+- 🤝 **Trato directo con clientes**: hice sitios freelance para empresas reales, escuchando su problema y entregando algo que funcione.
+- 🧩 **Pega Business Architect**: entiendo el software desde el negocio, no solo desde el código.
 
----
+### Proyectos destacados
 
-### 🎯 <small>Lo que estoy buscando</small>
-* <small>🛠️ **Retos reales:** Proyectos que me obliguen a pensar fuera de la caja.</small>
-* <small>🤝 **Colaboración:** Busco aprender de devs que lleven años rompiendo cosas (y arreglándolas).</small>
-* <small>🌐 **Open Source:** Quiero que mi código aporte valor más allá de mis propios repos.</small>
+| Proyecto | Qué es | Demo |
+|---|---|---|
+| [**Brío**](https://github.com/ZeroFuann-FS/brio) | App de salud (PWA): comida, gym, hábitos y metas. Supabase, notificaciones push, funciona sin internet | [mi-brio.vercel.app](https://mi-brio.vercel.app) |
+| [**Nexus-TIC**](https://github.com/ZeroFuann-FS/nexus-tic) | Orientador vocacional con chat de diagnóstico, voz y recomendaciones por compatibilidad | [Ver](https://nexus-tic.vercel.app) |
+| [**Minea Company**](https://github.com/ZeroFuann-FS/minea-company) | Tienda de dulces artesanales con pedidos por WhatsApp · freelance | [Ver](https://minea05-company.vercel.app) |
+| [**Lupac Industrial**](https://github.com/ZeroFuann-FS/lupac-industrial) | Catálogo de maquinaria industrial con enfoque en SEO · freelance | [lu-pac.com](https://lu-pac.com) |
+| [**FANA**](https://github.com/ZeroFuann-FS/fana) · [**MANBAL**](https://github.com/ZeroFuann-FS/manbal) | Sitios de ingeniería vial y topografía, con cotizador · freelance | [FANA](https://zerofuann-fs.github.io/fana/) · [MANBAL](https://zerofuann-fs.github.io/manbal/) |
 
-### ✨ <small>Fuera del código</small>
-* <small>🎓 Soy **Pega Business Architect**, así que entiendo el software desde el negocio, no solo desde el `if/else`.</small>
-* <small>🎮 Cuando no estoy programando, me encuentras en **EA Sports FC** o explorando nuevos juegos.</small>
-* <small>📈 Me apasiona el mundo de las **inversiones**, las finanzas personales y el ecosistema **Cripto**.</small>
-* <small>⚡ **Daily routine:** Gym, anime y prototipar ideas locas.</small>
+### Cómo trabajo con IA
 
----
+Uso **Claude y Claude Code** como herramientas diarias de desarrollo. Yo defino el problema, la arquitectura y las decisiones; la IA me ayuda a construir más rápido, y reviso todo lo que se sube.
 
-> <small>Si tienes un proyecto en mente o quieres hablar de tech, mis repos están abiertos para ti.</small>
+### Stack
+
+**Frontend** &nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+**Backend** &nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-F12E24?style=flat-square&logo=laravel&logoColor=white)
+
+**Datos y nube** &nbsp;
+![Supabase](https://img.shields.io/badge/Supabase-1C1C1C?style=flat-square&logo=supabase&logoColor=3ECF8E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-1C1C1C?style=flat-square&logo=firebase&logoColor=FFCA28)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+**IA** &nbsp;
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-1C1C1C?style=flat-square&logo=claude&logoColor=D97757)
+
+### Ahora mismo
+
+- 🏢 Residencia profesional en Synesia Labs
+- 💪 Mejorando Brío con usuarios reales
+- 📚 Aprendiendo a integrar IA en productos: APIs de modelos de lenguaje y agentes
+
+<sub>Fuera del código: gym y finanzas personales.</sub>
