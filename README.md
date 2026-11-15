@@ -1,58 +1,44 @@
-## Hola, soy José Juan · ZeroFuann 👋
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/encabezado-dark.svg"><img src="assets/encabezado-light.svg" alt="José Juan Juárez · Desarrollador de software enfocado en productos con IA · Camino a Forward Deployed Engineer" width="100%"></picture>
 
-**Desarrollador de software enfocado en productos con IA** · Ingeniería en TICs · Camino a **Forward Deployed Engineer**
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/titulo-sobre-mi-dark.svg"><img src="assets/titulo-sobre-mi-light.svg" alt="01 Sobre mí" width="100%"></picture>
 
 Me gusta tomar un problema real, entenderlo con quien lo vive y convertirlo en software que se usa todos los días: desde la idea y el diseño hasta la base de datos, el despliegue y los usuarios.
 
-### Sobre mí
+- **Formación.** Ingeniería en Tecnologías de la Información y Comunicaciones (2022 a la fecha).
+- **Experiencia.** Software Engineering Resident en **Synesia Labs**, como parte de mi residencia profesional.
+- **De punta a punta.** Frontend, backend, base de datos, despliegue y mantenimiento; mi ejemplo más completo es [Brío](https://github.com/ZeroFuann-FS/brio).
+- **Trato con clientes.** Sitios freelance para empresas reales: escuchar el problema y entregar algo que funcione.
+- **Visión de negocio.** Certificado como **Pega Business Architect**: entiendo el software desde el negocio, no solo desde el código.
 
-- 🎓 Estudiante de **Ingeniería en Tecnologías de la Información y Comunicaciones** (2022 a la fecha).
-- 💼 **Software Engineering Resident en Synesia Labs**, haciendo mi residencia profesional.
-- 🚀 Construyo productos **de punta a punta**: frontend, backend, base de datos, despliegue y mantenimiento. Ejemplo: [Brío](https://github.com/ZeroFuann-FS/brio).
-- 🤝 **Trato directo con clientes**: hice sitios freelance para empresas reales, escuchando su problema y entregando algo que funcione.
-- 🧩 **Pega Business Architect**: entiendo el software desde el negocio, no solo desde el código.
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/titulo-proyectos-dark.svg"><img src="assets/titulo-proyectos-light.svg" alt="02 Proyectos destacados" width="100%"></picture>
 
-### Proyectos destacados
+<p>
+<a href="https://github.com/ZeroFuann-FS/brio"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proyecto-brio-dark.svg"><img src="assets/proyecto-brio-light.svg" alt="Brío" width="49%"></picture></a>
+<a href="https://github.com/ZeroFuann-FS/nexus-tic"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proyecto-nexus-dark.svg"><img src="assets/proyecto-nexus-light.svg" alt="Nexus-TIC" width="49%"></picture></a>
+</p>
+<p>
+<a href="https://github.com/ZeroFuann-FS/minea-company"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proyecto-minea-dark.svg"><img src="assets/proyecto-minea-light.svg" alt="Minea Company" width="49%"></picture></a>
+<a href="https://github.com/ZeroFuann-FS/lupac-industrial"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proyecto-lupac-dark.svg"><img src="assets/proyecto-lupac-light.svg" alt="Lupac Industrial" width="49%"></picture></a>
+</p>
+<p>
+<a href="https://github.com/ZeroFuann-FS/fana"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proyecto-fana-dark.svg"><img src="assets/proyecto-fana-light.svg" alt="FANA" width="49%"></picture></a>
+<a href="https://github.com/ZeroFuann-FS/manbal"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proyecto-manbal-dark.svg"><img src="assets/proyecto-manbal-light.svg" alt="Grupo MANBAL" width="49%"></picture></a>
+</p>
 
-| Proyecto | Qué es | Demo |
-|---|---|---|
-| [**Brío**](https://github.com/ZeroFuann-FS/brio) | App de salud (PWA): comida, gym, hábitos y metas. Supabase, notificaciones push, funciona sin internet | [mi-brio.vercel.app](https://mi-brio.vercel.app) |
-| [**Nexus-TIC**](https://github.com/ZeroFuann-FS/nexus-tic) | Orientador vocacional con chat de diagnóstico, voz y recomendaciones por compatibilidad | [Ver](https://nexus-tic.vercel.app) |
-| [**Minea Company**](https://github.com/ZeroFuann-FS/minea-company) | Tienda de dulces artesanales con pedidos por WhatsApp · freelance | [Ver](https://minea05-company.vercel.app) |
-| [**Lupac Industrial**](https://github.com/ZeroFuann-FS/lupac-industrial) | Catálogo de maquinaria industrial con enfoque en SEO · freelance | [lu-pac.com](https://lu-pac.com) |
-| [**FANA**](https://github.com/ZeroFuann-FS/fana) · [**MANBAL**](https://github.com/ZeroFuann-FS/manbal) | Sitios de ingeniería vial y topografía, con cotizador · freelance | [FANA](https://zerofuann-fs.github.io/fana/) · [MANBAL](https://zerofuann-fs.github.io/manbal/) |
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/titulo-ia-dark.svg"><img src="assets/titulo-ia-light.svg" alt="03 Cómo trabajo con IA" width="100%"></picture>
 
-### Cómo trabajo con IA
+Uso **Claude** y **Claude Code** como herramientas diarias de desarrollo. Yo defino el problema, la arquitectura y las decisiones; la IA me ayuda a construir más rápido, y reviso todo lo que se sube.
 
-Uso **Claude y Claude Code** como herramientas diarias de desarrollo. Yo defino el problema, la arquitectura y las decisiones; la IA me ayuda a construir más rápido, y reviso todo lo que se sube.
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/titulo-stack-dark.svg"><img src="assets/titulo-stack-light.svg" alt="04 Stack" width="100%"></picture>
 
-### Stack
+<p align="left">
+<a href="#"><img src="https://skillicons.dev/icons?i=react,ts,js,vue,tailwind,vite,nodejs,laravel,supabase,postgres,firebase,vercel,git&perline=13" alt="React, TypeScript, JavaScript, Vue, Tailwind, Vite, Node.js, Laravel, Supabase, PostgreSQL, Firebase, Vercel, Git" /></a>
+</p>
 
-**Frontend** &nbsp;
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+**IA:** Claude · Claude Code &nbsp;·&nbsp; **Negocio:** Pega (Business Architect)
 
-**Backend** &nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-F12E24?style=flat-square&logo=laravel&logoColor=white)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/titulo-ahora-dark.svg"><img src="assets/titulo-ahora-light.svg" alt="05 Ahora mismo" width="100%"></picture>
 
-**Datos y nube** &nbsp;
-![Supabase](https://img.shields.io/badge/Supabase-1C1C1C?style=flat-square&logo=supabase&logoColor=3ECF8E)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-1C1C1C?style=flat-square&logo=firebase&logoColor=FFCA28)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-**IA** &nbsp;
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-1C1C1C?style=flat-square&logo=claude&logoColor=D97757)
-
-### Ahora mismo
-
-- 🏢 Residencia profesional en Synesia Labs
-- 💪 Mejorando Brío con usuarios reales
-- 📚 Aprendiendo a integrar IA en productos: APIs de modelos de lenguaje y agentes
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ahora-dark.svg"><img src="assets/ahora-light.svg" alt="Residencia en Synesia Labs · Construyendo Brío · Aprendiendo IA en productos" width="100%"></picture>
 
 <sub>Fuera del código: gym y finanzas personales.</sub>
