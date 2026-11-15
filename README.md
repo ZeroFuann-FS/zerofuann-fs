@@ -1,4 +1,4 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/encabezado-dark.svg"><img src="assets/encabezado-light.svg" alt="José Juan Juárez · Desarrollador de software enfocado en productos con IA · Camino a Forward Deployed Engineer" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/encabezado-dark.svg"><img src="assets/encabezado-light.svg" alt="José Juan Juárez Martínez · Desarrollador de software enfocado en productos con IA · Camino a Forward Deployed Engineer" width="100%"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/titulo-sobre-mi-dark.svg"><img src="assets/titulo-sobre-mi-light.svg" alt="01 Sobre mí" width="100%"></picture>
 
