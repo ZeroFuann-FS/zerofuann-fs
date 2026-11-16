@@ -41,4 +41,11 @@ Uso **Claude** y **Claude Code** como herramientas diarias de desarrollo. Yo def
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/ahora-dark.svg"><img src="assets/ahora-light.svg" alt="Residencia en Synesia Labs · Construyendo Brío · Aprendiendo IA en productos" width="100%"></picture>
 
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/titulo-contacto-dark.svg"><img src="assets/titulo-contacto-light.svg" alt="06 Contacto" width="100%"></picture>
+
+<p>
+<a href="mailto:josejuanjuarezmartinez28@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/contacto-correo-dark.svg"><img src="assets/contacto-correo-light.svg" alt="Correo: josejuanjuarezmartinez28@gmail.com" width="49%"></picture></a>
+<a href="https://www.linkedin.com/in/josejuanjuarezmartinez"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/contacto-linkedin-dark.svg"><img src="assets/contacto-linkedin-light.svg" alt="LinkedIn: José Juan Juárez Martínez" width="49%"></picture></a>
+</p>
+
 <sub>Fuera del código: gym y finanzas personales.</sub>
