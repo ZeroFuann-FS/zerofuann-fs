@@ -17,6 +17,9 @@ Me gusta tomar un problema real, entenderlo con quien lo vive y convertirlo en s
 <a href="https://github.com/ZeroFuann-FS/nexus-tic"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proyecto-nexus-dark.svg"><img src="assets/proyecto-nexus-light.svg" alt="Nexus-TIC" width="49%"></picture></a>
 </p>
 <p>
+<a href="https://github.com/ZeroFuann-FS/portafolio"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proyecto-portafolio-dark.svg"><img src="assets/proyecto-portafolio-light.svg" alt="Portafolio ZeroFuann" width="100%"></picture></a>
+</p>
+<p>
 <a href="https://github.com/ZeroFuann-FS/minea-company"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proyecto-minea-dark.svg"><img src="assets/proyecto-minea-light.svg" alt="Minea Company" width="49%"></picture></a>
 <a href="https://github.com/ZeroFuann-FS/lupac-industrial"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proyecto-lupac-dark.svg"><img src="assets/proyecto-lupac-light.svg" alt="Lupac Industrial" width="49%"></picture></a>
 </p>
