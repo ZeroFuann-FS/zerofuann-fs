@@ -7,7 +7,7 @@ Me gusta tomar un problema real, entenderlo con quien lo vive y convertirlo en s
 - **Formación.** Ingeniería en Tecnologías de la Información y Comunicaciones (2022 a la fecha).
 - **Experiencia.** Software Engineering Resident en **Synesia Labs**, como parte de mi residencia profesional.
 - **De punta a punta.** Frontend, backend, base de datos, despliegue y mantenimiento; mi ejemplo más completo es [Brío](https://github.com/ZeroFuann-FS/brio).
-- **Trato con clientes.** Sitios freelance para empresas reales: escuchar el problema y entregar algo que funcione.
+- **Trato con clientes.** Sitios freelance para empresas reales desde 2024 (mi primer cliente, Grupo MANBAL, me buscó ese año y entregué su sitio en 2025): escuchar el problema y entregar algo que funcione.
 - **Visión de negocio.** Certificado como **Pega Business Architect**: entiendo el software desde el negocio, no solo desde el código.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/titulo-proyectos-dark.svg"><img src="assets/titulo-proyectos-light.svg" alt="02 Proyectos destacados" width="100%"></picture>
