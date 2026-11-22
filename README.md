@@ -28,6 +28,8 @@ Me gusta tomar un problema real, entenderlo con quien lo vive y convertirlo en s
 <a href="https://github.com/ZeroFuann-FS/manbal"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proyecto-manbal-dark.svg"><img src="assets/proyecto-manbal-light.svg" alt="Grupo MANBAL" width="49%"></picture></a>
 </p>
 
+<sub>Minea Company, FANA y Grupo MANBAL ya cerraron como negocios; sus sitios siguen en línea como muestra de mi trabajo.</sub>
+
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/titulo-ia-dark.svg"><img src="assets/titulo-ia-light.svg" alt="03 Cómo trabajo con IA" width="100%"></picture>
 
 Uso **Claude** y **Claude Code** como herramientas diarias de desarrollo. Yo defino el problema, la arquitectura y las decisiones; la IA me ayuda a construir más rápido, y reviso todo lo que se sube.
