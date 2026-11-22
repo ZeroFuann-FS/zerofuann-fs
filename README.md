@@ -13,19 +13,19 @@ Me gusta tomar un problema real, entenderlo con quien lo vive y convertirlo en s
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/titulo-proyectos-dark.svg"><img src="assets/titulo-proyectos-light.svg" alt="02 Proyectos destacados" width="100%"></picture>
 
 <p>
-<a href="https://github.com/ZeroFuann-FS/brio"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proyecto-brio-dark.svg"><img src="assets/proyecto-brio-light.svg" alt="Brío" width="49%"></picture></a>
-<a href="https://github.com/ZeroFuann-FS/nexus-tic"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proyecto-nexus-dark.svg"><img src="assets/proyecto-nexus-light.svg" alt="Nexus-TIC" width="49%"></picture></a>
+<a href="https://github.com/ZeroFuann-FS/brio"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proyecto-brio-dark.svg?v=2"><img src="assets/proyecto-brio-light.svg?v=2" alt="Brío" width="49%"></picture></a>
+<a href="https://github.com/ZeroFuann-FS/nexus-tic"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proyecto-nexus-dark.svg?v=2"><img src="assets/proyecto-nexus-light.svg?v=2" alt="Nexus-TIC" width="49%"></picture></a>
 </p>
 <p>
-<a href="https://github.com/ZeroFuann-FS/portafolio"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proyecto-portafolio-dark.svg"><img src="assets/proyecto-portafolio-light.svg" alt="Portafolio ZeroFuann" width="100%"></picture></a>
+<a href="https://github.com/ZeroFuann-FS/portafolio"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proyecto-portafolio-dark.svg?v=2"><img src="assets/proyecto-portafolio-light.svg?v=2" alt="Portafolio ZeroFuann" width="100%"></picture></a>
 </p>
 <p>
 <a href="https://github.com/ZeroFuann-FS/minea-company"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proyecto-minea-dark.svg"><img src="assets/proyecto-minea-light.svg" alt="Minea Company" width="49%"></picture></a>
 <a href="https://github.com/ZeroFuann-FS/lupac-industrial"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proyecto-lupac-dark.svg"><img src="assets/proyecto-lupac-light.svg" alt="Lupac Industrial" width="49%"></picture></a>
 </p>
 <p>
-<a href="https://github.com/ZeroFuann-FS/fana"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proyecto-fana-dark.svg"><img src="assets/proyecto-fana-light.svg" alt="FANA" width="49%"></picture></a>
-<a href="https://github.com/ZeroFuann-FS/manbal"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proyecto-manbal-dark.svg"><img src="assets/proyecto-manbal-light.svg" alt="Grupo MANBAL" width="49%"></picture></a>
+<a href="https://github.com/ZeroFuann-FS/fana"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proyecto-fana-dark.svg?v=2"><img src="assets/proyecto-fana-light.svg?v=2" alt="FANA" width="49%"></picture></a>
+<a href="https://github.com/ZeroFuann-FS/manbal"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proyecto-manbal-dark.svg?v=2"><img src="assets/proyecto-manbal-light.svg?v=2" alt="Grupo MANBAL" width="49%"></picture></a>
 </p>
 
 <sub>Minea Company, FANA y Grupo MANBAL ya cerraron como negocios; sus sitios siguen en línea como muestra de mi trabajo.</sub>
